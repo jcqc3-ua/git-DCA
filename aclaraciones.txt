@@ -1,0 +1,1 @@
+Se ha añadido un hook para que se tenga que poner el pprefijo JIRA con numeros para que se pueda hacer un commit 
