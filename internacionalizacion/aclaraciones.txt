@@ -1,0 +1,11 @@
+Para ejecutar el programa, se debe compilar con el siguiente comando:
+gcc calculadora.c -o calculadora
+
+// Para ejecutar el programa en inlges se debe ejecutar el siguiente comando:
+LANG=en_GB.UTF-8 ./calculadora
+
+// Para ejecutar el programa en catalan se debe ejecutar el siguiente comando:
+LANG=ca_ES.UTF-8 ./calculadora
+
+// Para ejecutar el programa en español se debe ejecutar el siguiente comando:
+LANG=es_ES.UTF-8 ./calculadora

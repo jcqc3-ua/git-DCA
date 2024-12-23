@@ -1,0 +1,2 @@
+noinst_LIBRARIES = libpalindrome_checker.a
+libpalindrome_checker_a_SOURCES = palindrome_checker.cpp

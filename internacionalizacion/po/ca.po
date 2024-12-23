@@ -1,0 +1,77 @@
+# Catalan translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Joanclq <joanclq@joanclq-modern-15-a5m>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-10 15:33+0100\n"
+"PO-Revision-Date: 2024-12-10 15:34+0100\n"
+"Last-Translator: Joanclq <joanclq@joanclq-modern-15-a5m>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: calculadora.c:14
+#, c-format
+msgid "Selecciona una operación:\n"
+msgstr "Selecciona una operació:\n"
+
+#: calculadora.c:15
+#, c-format
+msgid "1. Suma\n"
+msgstr "1. Sumar\n"
+
+#: calculadora.c:16
+#, c-format
+msgid "2. Resta\n"
+msgstr "2. Restar\n"
+
+#: calculadora.c:17
+#, c-format
+msgid "3. Multiplicación\n"
+msgstr "3. Multiplicació\n"
+
+#: calculadora.c:18
+#, c-format
+msgid "4. División\n"
+msgstr "4. Divisió\n"
+
+#: calculadora.c:19
+#, c-format
+msgid "5. Salir\n"
+msgstr "5. Sortir\n"
+
+#: calculadora.c:29
+#, c-format
+msgid "Introduce tu opción: "
+msgstr "Introdueix la teva opció: "
+
+#: calculadora.c:31 calculadora.c:40 calculadora.c:46
+#, c-format
+msgid "Entrada no válida. Por favor, introduce un número.\n"
+msgstr "Entrada no vàlida. Si us plau, introdueix un número.\n"
+
+#: calculadora.c:38
+#, c-format
+msgid "Introduce el primer número: "
+msgstr "Introdueix el primer número: "
+
+#: calculadora.c:44
+#, c-format
+msgid "Introduce el segundo número: "
+msgstr "Introdueix el segon número: "
+
+#: calculadora.c:53 calculadora.c:56 calculadora.c:59 calculadora.c:63
+#, c-format
+msgid "Resultado: %.2f\n"
+msgstr "Resultat: %.2f\n"
+
+#: calculadora.c:65
+#, c-format
+msgid "Error: No se puede dividir por cero.\n"
+msgstr "Error: No es pot dividir per zero.\n"
